@@ -1,4 +1,4 @@
-# Programming Patterns - Exam 3 - Section 3
+# Programming Patterns - Exam 3
 
 This template repository is the starter project for Programming Patterns Exam 3 section 3. Written in Java, and tested with Gradle/JUnit.
 
