@@ -47,7 +47,7 @@ Output: "0102030405"
 
 2. Connect the MVCExample project to a database using SQLite, called **School.db** and do the following operations:
 
-- Create a student table, a course table and a fall2022 table.
+- Create a student table, a course table and a winter2024 table.
 - Have studentID as primary key in the student table and as foreign key to the fall2022 table. Other columns would be name, and phone number.
 - Have courseID as primary key for the course table and as foreign key to the fall2022 table. Other columns would be nameOfCourse, numberOfCredits.
 - Have RegistrationID as primary key for the fall2022 table.
